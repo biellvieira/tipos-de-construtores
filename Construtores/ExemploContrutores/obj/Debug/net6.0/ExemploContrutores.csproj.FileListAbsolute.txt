@@ -1,0 +1,15 @@
+C:\Users\vieir\Desktop\DIO .NET\Construtores\ExemploContrutores\bin\Debug\net6.0\ExemploContrutores.exe
+C:\Users\vieir\Desktop\DIO .NET\Construtores\ExemploContrutores\bin\Debug\net6.0\ExemploContrutores.deps.json
+C:\Users\vieir\Desktop\DIO .NET\Construtores\ExemploContrutores\bin\Debug\net6.0\ExemploContrutores.runtimeconfig.json
+C:\Users\vieir\Desktop\DIO .NET\Construtores\ExemploContrutores\bin\Debug\net6.0\ExemploContrutores.dll
+C:\Users\vieir\Desktop\DIO .NET\Construtores\ExemploContrutores\bin\Debug\net6.0\ref\ExemploContrutores.dll
+C:\Users\vieir\Desktop\DIO .NET\Construtores\ExemploContrutores\bin\Debug\net6.0\ExemploContrutores.pdb
+C:\Users\vieir\Desktop\DIO .NET\Construtores\ExemploContrutores\obj\Debug\net6.0\ExemploContrutores.csproj.AssemblyReference.cache
+C:\Users\vieir\Desktop\DIO .NET\Construtores\ExemploContrutores\obj\Debug\net6.0\ExemploContrutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vieir\Desktop\DIO .NET\Construtores\ExemploContrutores\obj\Debug\net6.0\ExemploContrutores.AssemblyInfoInputs.cache
+C:\Users\vieir\Desktop\DIO .NET\Construtores\ExemploContrutores\obj\Debug\net6.0\ExemploContrutores.AssemblyInfo.cs
+C:\Users\vieir\Desktop\DIO .NET\Construtores\ExemploContrutores\obj\Debug\net6.0\ExemploContrutores.csproj.CoreCompileInputs.cache
+C:\Users\vieir\Desktop\DIO .NET\Construtores\ExemploContrutores\obj\Debug\net6.0\ExemploContrutores.dll
+C:\Users\vieir\Desktop\DIO .NET\Construtores\ExemploContrutores\obj\Debug\net6.0\ref\ExemploContrutores.dll
+C:\Users\vieir\Desktop\DIO .NET\Construtores\ExemploContrutores\obj\Debug\net6.0\ExemploContrutores.pdb
+C:\Users\vieir\Desktop\DIO .NET\Construtores\ExemploContrutores\obj\Debug\net6.0\ExemploContrutores.genruntimeconfig.cache
